@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Nero gomme spray",
+        "description": "Prodotto di alta qualità per lucidare e proteggere le gomme.",
+        "price": "12,99€",
+        "availability": "Disponibile"
+    },
+    {
+        "name": "Grasso lubrificante",
+        "description": "Lubrificante spray per una lubrificazione duratura.",
+        "price": "14,50€",
+        "availability": "Disponibile"
+    }
+]
+
