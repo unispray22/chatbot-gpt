@@ -1,15 +1,62 @@
 [
     {
-        "name": "Nero gomme spray",
-        "description": "Prodotto di alta qualità per lucidare e proteggere le gomme.",
-        "price": "12,99€",
-        "availability": "Disponibile"
+        "name": "Liquido Radiatori Rosso Concentrato 1kg - Protezione Antigelo fino a -36°C",
+        "description": "Liquido antigelo rosso concentrato ad alte prestazioni, adatto per proteggere il radiatore fino a -36°C.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33744487/liquido-radiatori-rosso-concentrato-1kg-protezione-antigelo-fino-a-36-c"
     },
     {
-        "name": "Grasso lubrificante",
-        "description": "Lubrificante spray per una lubrificazione duratura.",
-        "price": "14,50€",
-        "availability": "Disponibile"
+        "name": "Liquido Radiatori Giallo Concentrato 1kg - Protezione Antigelo fino a -36°C",
+        "description": "Liquido antigelo giallo concentrato per la protezione del motore a basse temperature fino a -36°C.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33744466/liquido-radiatori-giallo-concentrato-1kg-protezione-antigelo-fino-a-36-c"
+    },
+    {
+        "name": "Liquido Radiatori Blu Concentrato 1kg - Protezione Antigelo fino a -36°C",
+        "description": "Liquido antigelo blu concentrato per la protezione dei radiatori fino a -36°C.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33744438/liquido-radiatori-blu-concentrato-1kg-protezione-antigelo-fino-a-36-c"
+    },
+    {
+        "name": "AdBlue 10 Litri + Nero Gomme 500 ml Omaggio",
+        "description": "Confezione di AdBlue 10 litri con in omaggio il Nero Gomme 500 ml per la cura e la manutenzione dell'auto.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33579104/adblue-10-litri-nero-gomme-500-ml-omaggio"
+    },
+    {
+        "name": "Grasso Spray al Litio 400 ml",
+        "description": "Grasso spray al litio ad alta resistenza per lubrificazione di ingranaggi, cuscinetti e parti meccaniche.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33309357/grasso-spray-al-litio-400-ml"
+    },
+    {
+        "name": "Grasso Spray al Rame 400 ml",
+        "description": "Grasso spray al rame ideale per applicazioni ad alta temperatura e anti-grippaggio.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33309345/grasso-spray-al-rame-400-ml"
+    },
+    {
+        "name": "Deghiacciante Spray 400 ml - Antighiaccio per Parabrezza",
+        "description": "Spray deghiacciante rapido per parabrezza, elimina il ghiaccio rapidamente e previene la ricongelazione.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33268706/deghiacciante-spray-400-ml-antighiaccio-per-parabrezza"
+    },
+    {
+        "name": "Detergente Pavimenti al Limone 1L",
+        "description": "Detergente per pavimenti al limone, formula non schiumogena compatibile con robot aspirapolvere e lavapavimenti.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33174700/detergente-pavimenti-al-limone-1l-compatibile-con-robot-aspirapolvere-e-lavapavimenti-formula-non-schiumogena"
+    },
+    {
+        "name": "Silicone Super Liquido 500 ml",
+        "description": "Silicone super liquido ideale per la lubrificazione e protezione di superfici metalliche e plastiche.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33174522/silicone-super-liquido-500-ml"
+    },
+    {
+        "name": "Alcool Isopropilico Spray 200 ml",
+        "description": "Spray alcool isopropilico per pulizia e sgrassaggio di componenti elettronici e meccanici.",
+        "price": "N/A",
+        "url": "https://www.unispray.it/product/33174247/alcool-isopropilico-spray-200-ml"
     }
 ]
-
